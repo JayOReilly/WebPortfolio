@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  body{
+    
+    @apply font-bold;
+    /*@apply text-white;*/
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+.sidebar-icon {
+  @apply relative flex items-center justify-center
+  h-16 w-16 mt-16 mb-1 mx-auto shadow-lg
+  bg-[#cf0c9b] text-purple-300 hover:bg-yellow-300
+  hover:text-white rounded-3xl hover:rounded-xl
+  transition-all duration-300 ease-linear cursor-pointer;
+}
+
+.sidebar-tip {
+  @apply absolute w-auto p-2 m-2 min-w-max left-20
+  rounded-md shadow-md
+   text-black bg-yellow-300
+  text-xs font-bold 
+  transition-all duration-100 scale-0 origin-left;
+  
+}
+
+.nav-icon{
+  @apply relative flex items-center justify-center
+  h-10 w-14 mt-10 mb-2 mx-2 shadow-lg
+  bg-[#22292e] text-purple-300 hover:bg-yellow-300
+  hover:text-white rounded-3xl hover:rounded-xl
+  transition-all duration-300 ease-linear cursor-pointer;
+}
+
+.content-div{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: center;
+  height: 250px;
+}
+
+.content-div:hover{
+  background-image: linear-gradient(
+    to right,
+    rgba(112,157,255,0.8)
+    hsla(242,74%,64%,0.8)
+  );
+}
+
