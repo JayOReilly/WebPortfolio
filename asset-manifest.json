@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WebPortfolio/static/css/main.4720906b.css",
+    "main.js": "/WebPortfolio/static/js/main.f0d76c48.js",
+    "static/media/threeJS-Landing.jpg": "/WebPortfolio/static/media/threeJS-Landing.373e8b5ada3b81452c12.jpg",
+    "static/media/physics.png": "/WebPortfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/java.png": "/WebPortfolio/static/media/java.aaaa73f637215f4d6333.png",
+    "static/media/LoginStudent.jpg": "/WebPortfolio/static/media/LoginStudent.706f09eb79780995ebc7.jpg",
+    "static/media/android.png": "/WebPortfolio/static/media/android.6a7967112fa468a64514.png",
+    "static/media/coming.jpg": "/WebPortfolio/static/media/coming.d5afa083f51299f93875.jpg",
+    "static/media/github2.png": "/WebPortfolio/static/media/github2.cccbfec3222e1d979664.png",
+    "static/media/html-5.png": "/WebPortfolio/static/media/html-5.b2db3a7f6897f0a6e75c.png",
+    "static/media/fire.png": "/WebPortfolio/static/media/fire.bc1a3cdb89c397b26772.png",
+    "static/media/css.png": "/WebPortfolio/static/media/css.d2811e5969760ef58072.png",
+    "static/media/js.png": "/WebPortfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/WebPortfolio/index.html",
+    "main.4720906b.css.map": "/WebPortfolio/static/css/main.4720906b.css.map",
+    "main.f0d76c48.js.map": "/WebPortfolio/static/js/main.f0d76c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4720906b.css",
+    "static/js/main.f0d76c48.js"
+  ]
+}
