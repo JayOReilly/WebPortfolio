@@ -51,14 +51,15 @@ const Home = () => {
           Software Developer 
         </h2>
         <p className='text-2xl sm:text-2xl font-bold  text-pink-400'>
-         Thank you for visiting my website, I am a developer from Dublin specializing in the front end.
-         I returned to study in 2018 as a 26 year old and now have finished 4 years at the age of 30.
+         Thank you for visiting my website, I am a developer from Dublin,Ireland specializing in the front end.
+         I returned to study in 2018 as a 26 year old and now have finished 4 years of Computer Science at the age of 30.
          
 
         </p>
-        <p className='text-2xl sm:text-2xl font-bold text-[#62ff08]'>I really enjoy the designing websites and applications, I have built applications with 
-          Android Studio and most recently have found myself so interested in using React.js with Tailwind.
-          I am truly passionate about being a developer!
+        <p className='text-2xl sm:text-2xl font-bold text-[#62ff08]'>I am passionate about designing,styling and developing websites and applications
+           with full functionality, Recently i have been working alot with React and all things Javascript.
+           I am on the path to becoming a better all rounder and always grab an oppurtunity to soak in advice and tips from more experienced devs.
+          
          </p>
 
         <div>

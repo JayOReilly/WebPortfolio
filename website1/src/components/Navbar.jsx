@@ -58,11 +58,7 @@ const handleClick = () => setNavbar(!nav)
                     <a className='flex justify-between items-center w-full text-white bg-[#130101]' 
                     href='https://github.com/JayOReilly'> GitHub <FaGithub size={30}/></a>
                 </li>
-                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-8px] duration-300'>
-                    <a className='flex justify-between items-center w-full text-white bg-[#34ff02]' 
-                    
-                    href='skills'> Skills <BsFillPersonLinesFill size={30}/></a>
-                </li>  
+                
                     
                         
                         
