@@ -29,7 +29,7 @@ const About = () => {
                 <div className='max-w-[1000px]  w-full px-4 grid grid-cols-2 gap-8 text-pink-400'>
                     <div className='sm:text-right pb-8 pl-4'>
                                             
-                        <p className='text-4xl text-white'>I would describe myself as a humble person exercising patience when learning and navigating through life.
+                        <p className='text-2xl text-white'>I would describe myself as a humble person exercising patience when learning and navigating through life.
                         I have been told i am a great communicator and can express my opinions clearly. I have always been a creative person and love to design and implement my ideas. I formally produced electronic music to express my creativity
                         and have now found that same type of satisfaction in Web Development.
                         
@@ -38,7 +38,7 @@ const About = () => {
                          </p>
                     </div>
                     <div>
-                        <h1 className=' text-4xl text-[#18fb2f] '>Since embarking on this journey i have un earthed a great passion for this!
+                        <h1 className=' text-2xl text-[#18fb2f] '>Since embarking on this journey i have un earthed a great passion for this!
                         I am passionate about creating a great user experience and learning from those who have gone before me.
                         When approaching the design i always put myself in the shoes of a user to get a well rounded view of how the UI should be.
                         </h1>

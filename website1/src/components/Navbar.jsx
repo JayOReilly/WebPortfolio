@@ -37,6 +37,9 @@ const handleClick = () => setNavbar(!nav)
             </ul>
         </div>
        
+       <div onClick={handleClick} className="md:hidden z-10">
+        {!nav ? <FaBars /> : <FaTimes />}
+       </div>
        
        
        
